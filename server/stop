@@ -1,0 +1,6 @@
+#!/bin/sh
+killall server3
+killall chatserver
+killall update_server
+killall looping
+echo "Finished"
