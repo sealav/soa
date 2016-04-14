@@ -1,0 +1,66 @@
+beast1:        # lvl ?
+name="Fucking Demon!"
+description="Gonna Fuck your ass!"
+sprite=27
+sound=1
+flag=CF_NOBODY
+flag=CF_INFRARED
+flag=CF_DEMON
+
+V_HP=200
+V_ENDURANCE=200
+V_MANA=200
+
+V_WIS=200
+V_INT=200
+V_AGI=200
+V_STR=200
+
+V_HAND=200
+V_DAGGER=0
+V_STAFF=0
+V_SWORD=0
+V_TWOHAND=0
+
+# fighting skills
+V_ATTACK=200
+V_PARRY=200
+V_WARCRY=200
+V_TACTICS=200
+V_SURROUND=200
+V_ARMORSKILL=200
+V_BODYCONTROL=200
+V_SPEEDSKILL=200
+
+# misc skills
+V_BARTER=0
+V_PERCEPT=2
+V_STEALTH=0
+
+# spells
+V_BLESS=200
+V_HEAL=200
+V_FREEZE=200
+V_MAGICSHIELD=200
+V_FLASH=200
+V_FIREBALL=200
+
+V_REGENERATE=200
+V_MEDITATE=200
+V_IMMUNITY=200
+
+special_prob=100
+special_base=1
+special_strength=3
+
+spell=weapon_spell_13
+spell=armor_spell_13
+
+rprob=4
+ritem=alc_stone1
+
+driver=64
+arg="aggressive=1;helper=0;scavenger=10;startdist=20;chardist=0;stopdist=40;"
+group=3
+class=53
+;

@@ -1,0 +1,8 @@
+partygate1:
+name="Party Gate!"
+description="A strangely glowing device."
+sprite=14275    #50289
+flag=IF_MOVEBLOCK
+driver=38
+arg="FF10"
+;
