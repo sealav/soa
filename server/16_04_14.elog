@@ -1,0 +1,114 @@
+14.04.16 00:00:42 [035-01]: (update area set alive_time=1460584842,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:02:08 [035-01]: (update area set alive_time=1460584928,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:03:33 [035-01]: (update area set alive_time=1460585013,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:04:58 [035-01]: (update area set alive_time=1460585098,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:06:24 [035-01]: (update area set alive_time=1460585184,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:07:49 [035-01]: (update area set alive_time=1460585269,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:09:14 [035-01]: (update area set alive_time=1460585354,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:10:40 [035-01]: (update area set alive_time=1460585440,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:12:05 [035-01]: (update area set alive_time=1460585525,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:13:30 [035-01]: (update area set alive_time=1460585610,idle=9994,players=0,se) affected 0 rows
+14.04.16 00:14:56 [035-01]: (update area set alive_time=1460585696,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:16:21 [035-01]: (update area set alive_time=1460585781,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:17:46 [035-01]: (update area set alive_time=1460585866,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:19:12 [035-01]: (update area set alive_time=1460585952,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:20:37 [035-01]: (update area set alive_time=1460586037,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:22:02 [035-01]: (update area set alive_time=1460586122,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:23:28 [035-01]: (update area set alive_time=1460586208,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:24:53 [035-01]: (update area set alive_time=1460586293,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:26:18 [035-01]: (update area set alive_time=1460586378,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:27:44 [035-01]: (update area set alive_time=1460586464,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:29:09 [035-01]: (update area set alive_time=1460586549,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:30:34 [035-01]: (update area set alive_time=1460586634,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:32:00 [035-01]: (update area set alive_time=1460586720,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:33:25 [035-01]: (update area set alive_time=1460586805,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:34:50 [035-01]: (update area set alive_time=1460586890,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:36:16 [035-01]: (update area set alive_time=1460586976,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:37:41 [035-01]: (update area set alive_time=1460587061,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:39:06 [035-01]: (update area set alive_time=1460587146,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:40:32 [035-01]: (update area set alive_time=1460587232,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:41:57 [035-01]: (update area set alive_time=1460587317,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:43:22 [035-01]: (update area set alive_time=1460587402,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:44:48 [035-01]: (update area set alive_time=1460587488,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:46:13 [035-01]: (update area set alive_time=1460587573,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:47:38 [035-01]: (update area set alive_time=1460587658,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:49:04 [035-01]: (update area set alive_time=1460587744,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:50:29 [035-01]: (update area set alive_time=1460587829,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:51:54 [035-01]: (update area set alive_time=1460587914,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:53:20 [035-01]: (update area set alive_time=1460588000,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:54:45 [035-01]: (update area set alive_time=1460588085,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:56:10 [035-01]: (update area set alive_time=1460588170,idle=9994,players=0,se) affected 0 rows
+14.04.16 00:57:36 [035-01]: (update area set alive_time=1460588256,idle=9995,players=0,se) affected 0 rows
+14.04.16 00:59:01 [035-01]: (update area set alive_time=1460588341,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:00:26 [035-01]: (update area set alive_time=1460588426,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:01:52 [035-01]: (update area set alive_time=1460588512,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:02:10 [003-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:03:17 [035-01]: (update area set alive_time=1460588597,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:04:42 [035-01]: (update area set alive_time=1460588682,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:06:08 [035-01]: (update area set alive_time=1460588768,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:06:45 [004-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:07:33 [035-01]: (update area set alive_time=1460588853,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:08:58 [035-01]: (update area set alive_time=1460588938,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:10:24 [035-01]: (update area set alive_time=1460589024,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:11:49 [035-01]: (update area set alive_time=1460589109,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:13:14 [035-01]: (update area set alive_time=1460589194,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:14:40 [035-01]: (update area set alive_time=1460589280,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:16:05 [035-01]: (update area set alive_time=1460589365,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:17:30 [035-01]: (update area set alive_time=1460589450,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:18:56 [035-01]: (update area set alive_time=1460589536,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:20:21 [035-01]: (update area set alive_time=1460589621,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:21:46 [035-01]: (update area set alive_time=1460589706,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:23:12 [035-01]: (update area set alive_time=1460589792,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:24:37 [035-01]: (update area set alive_time=1460589877,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:24:38 [003-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:26:02 [035-01]: (update area set alive_time=1460589962,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:26:41 [014-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:27:28 [035-01]: (update area set alive_time=1460590048,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:28:53 [035-01]: (update area set alive_time=1460590133,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:30:18 [035-01]: (update area set alive_time=1460590218,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:31:36 [003-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:31:44 [035-01]: (update area set alive_time=1460590304,idle=9994,players=0,se) affected 0 rows
+14.04.16 01:33:09 [035-01]: (update area set alive_time=1460590389,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:33:10 [017-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:34:34 [035-01]: (update area set alive_time=1460590474,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:36:00 [035-01]: (update area set alive_time=1460590560,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:37:25 [035-01]: (update area set alive_time=1460590645,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:38:43 [003-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:38:50 [035-01]: (update area set alive_time=1460590730,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:39:12 [017-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:40:16 [035-01]: (update area set alive_time=1460590816,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:41:41 [035-01]: (update area set alive_time=1460590901,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:43:06 [035-01]: (update area set alive_time=1460590986,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:43:48 [003-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 01:44:32 [035-01]: (update area set alive_time=1460591072,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:45:57 [035-01]: (update area set alive_time=1460591157,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:47:22 [035-01]: (update area set alive_time=1460591242,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:48:48 [035-01]: (update area set alive_time=1460591328,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:50:13 [035-01]: (update area set alive_time=1460591413,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:51:38 [035-01]: (update area set alive_time=1460591498,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:53:04 [035-01]: (update area set alive_time=1460591584,idle=9994,players=0,se) affected 0 rows
+14.04.16 01:54:29 [035-01]: (update area set alive_time=1460591669,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:55:54 [035-01]: (update area set alive_time=1460591754,idle=9994,players=0,se) affected 0 rows
+14.04.16 01:57:20 [035-01]: (update area set alive_time=1460591840,idle=9995,players=0,se) affected 0 rows
+14.04.16 01:58:45 [035-01]: (update area set alive_time=1460591925,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:00:10 [035-01]: (update area set alive_time=1460592010,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:01:36 [035-01]: (update area set alive_time=1460592096,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:03:01 [035-01]: (update area set alive_time=1460592181,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:04:26 [035-01]: (update area set alive_time=1460592266,idle=9994,players=0,se) affected 0 rows
+14.04.16 02:05:52 [035-01]: (update area set alive_time=1460592352,idle=9994,players=0,se) affected 0 rows
+14.04.16 02:07:17 [035-01]: (update area set alive_time=1460592437,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:08:42 [035-01]: (update area set alive_time=1460592522,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:09:48 [017-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 02:10:08 [035-01]: (update area set alive_time=1460592608,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:10:34 [003-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 02:11:33 [035-01]: (update area set alive_time=1460592693,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:12:58 [035-01]: (update area set alive_time=1460592778,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:14:24 [035-01]: (update area set alive_time=1460592864,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:15:26 [001-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 02:15:49 [035-01]: (update area set alive_time=1460592949,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:16:22 [003-01]: sanitize_item: cannot deal with item Two-Handed Sword of character Dave
+14.04.16 02:17:14 [035-01]: (update area set alive_time=1460593034,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:18:40 [035-01]: (update area set alive_time=1460593120,idle=9994,players=0,se) affected 0 rows
+14.04.16 02:20:05 [035-01]: (update area set alive_time=1460593205,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:21:30 [035-01]: (update area set alive_time=1460593290,idle=9995,players=0,se) affected 0 rows
+14.04.16 02:22:56 [035-01]: (update area set alive_time=1460593376,idle=9994,players=0,se) affected 0 rows

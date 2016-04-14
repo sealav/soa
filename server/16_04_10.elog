@@ -1,0 +1,1183 @@
+10.04.16 00:00:27 [035-01]: (update area set alive_time=1460239227,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:01:53 [035-01]: (update area set alive_time=1460239313,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:03:18 [035-01]: (update area set alive_time=1460239398,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:04:43 [035-01]: (update area set alive_time=1460239483,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:06:09 [035-01]: (update area set alive_time=1460239569,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:07:34 [035-01]: (update area set alive_time=1460239654,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:08:59 [035-01]: (update area set alive_time=1460239739,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:10:25 [035-01]: (update area set alive_time=1460239825,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:11:50 [035-01]: (update area set alive_time=1460239910,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:13:15 [035-01]: (update area set alive_time=1460239995,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:14:41 [035-01]: (update area set alive_time=1460240081,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:16:06 [035-01]: (update area set alive_time=1460240166,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:17:31 [035-01]: (update area set alive_time=1460240251,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:18:57 [035-01]: (update area set alive_time=1460240337,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:20:22 [035-01]: (update area set alive_time=1460240422,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:21:47 [035-01]: (update area set alive_time=1460240507,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:23:13 [035-01]: (update area set alive_time=1460240593,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:24:38 [035-01]: (update area set alive_time=1460240678,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:26:03 [035-01]: (update area set alive_time=1460240763,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:27:29 [035-01]: (update area set alive_time=1460240849,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:28:54 [035-01]: (update area set alive_time=1460240934,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:30:19 [035-01]: (update area set alive_time=1460241019,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:31:45 [035-01]: (update area set alive_time=1460241105,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:33:10 [035-01]: (update area set alive_time=1460241190,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:34:35 [035-01]: (update area set alive_time=1460241275,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:36:01 [035-01]: (update area set alive_time=1460241361,idle=9995,players=0,se) affected 0 rows
+10.04.16 00:36:48 [003-01]: respawn checker: 71 113 119 is not respawning
+10.04.16 00:36:48 [022-01]: Unlinked effect 982, type=3
+10.04.16 00:36:48 [022-01]: Unlinked effect 1006, type=3
+10.04.16 00:36:48 [022-01]: Unlinked effect 1015, type=3
+10.04.16 00:36:48 [035-01]: (update area set alive_time=0,idle=0,players=0,server=0,port=) affected 0 rows
+10.04.16 00:37:08 [001-01]: get_area: got weird mirror 0, ignoring
+10.04.16 00:37:08 [001-01]: db_rescue_char 37
+10.04.16 00:37:08 [001-01]: rescued 37 to 1
+10.04.16 00:37:09 [003-01]: ERROR: Could not find item driver 38 in any library
+10.04.16 00:40:01 [001-01]: get_area: got weird mirror 0, ignoring
+10.04.16 00:40:01 [001-01]: db_rescue_char 51
+10.04.16 00:40:01 [001-01]: rescued 51 to 3
+10.04.16 01:11:25 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:17:44 [003-01]: ERROR: Could not find item driver 38 in any library
+10.04.16 01:18:15 [035-01]: (update area set alive_time=1460243895,idle=0,players=0,serve) affected 0 rows
+10.04.16 01:19:41 [035-01]: (update area set alive_time=1460243981,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:21:06 [035-01]: (update area set alive_time=1460244066,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:22:31 [035-01]: (update area set alive_time=1460244151,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:23:57 [035-01]: (update area set alive_time=1460244237,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:25:22 [035-01]: (update area set alive_time=1460244322,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:26:24 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:26:47 [035-01]: (update area set alive_time=1460244407,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:28:13 [035-01]: (update area set alive_time=1460244493,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:28:37 [031-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:28:50 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:29:06 [020-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:29:38 [035-01]: (update area set alive_time=1460244578,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:29:49 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:31:03 [035-01]: (update area set alive_time=1460244663,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:32:29 [035-01]: (update area set alive_time=1460244749,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:33:54 [035-01]: (update area set alive_time=1460244834,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:35:19 [035-01]: (update area set alive_time=1460244919,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:36:45 [035-01]: (update area set alive_time=1460245005,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:38:10 [035-01]: (update area set alive_time=1460245090,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:39:35 [035-01]: (update area set alive_time=1460245175,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:41:01 [035-01]: (update area set alive_time=1460245261,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:42:26 [035-01]: (update area set alive_time=1460245346,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:43:51 [035-01]: (update area set alive_time=1460245431,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:45:17 [035-01]: (update area set alive_time=1460245517,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:46:42 [035-01]: (update area set alive_time=1460245602,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:48:07 [035-01]: (update area set alive_time=1460245687,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:49:33 [035-01]: (update area set alive_time=1460245773,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:50:00 [014-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:50:58 [035-01]: (update area set alive_time=1460245858,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:51:10 [014-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:52:23 [035-01]: (update area set alive_time=1460245943,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:53:02 [003-01]: char Drakonous: used_exp=1717274782, calculated=484963372
+10.04.16 01:53:02 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 01:53:49 [035-01]: (update area set alive_time=1460246029,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:55:14 [035-01]: (update area set alive_time=1460246114,idle=9995,players=0,se) affected 0 rows
+10.04.16 01:56:39 [035-01]: (update area set alive_time=1460246199,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:58:05 [035-01]: (update area set alive_time=1460246285,idle=9994,players=0,se) affected 0 rows
+10.04.16 01:59:30 [035-01]: (update area set alive_time=1460246370,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:00:55 [035-01]: (update area set alive_time=1460246455,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:02:21 [035-01]: (update area set alive_time=1460246541,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:03:46 [035-01]: (update area set alive_time=1460246626,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:05:11 [035-01]: (update area set alive_time=1460246711,idle=9994,players=0,se) affected 0 rows
+10.04.16 02:06:37 [035-01]: (update area set alive_time=1460246797,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:08:02 [035-01]: (update area set alive_time=1460246882,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:09:27 [035-01]: (update area set alive_time=1460246967,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:10:53 [035-01]: (update area set alive_time=1460247053,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:12:18 [035-01]: (update area set alive_time=1460247138,idle=9994,players=0,se) affected 0 rows
+10.04.16 02:13:43 [035-01]: (update area set alive_time=1460247223,idle=9994,players=0,se) affected 0 rows
+10.04.16 02:15:09 [035-01]: (update area set alive_time=1460247309,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:16:34 [035-01]: (update area set alive_time=1460247394,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:17:59 [035-01]: (update area set alive_time=1460247479,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:19:25 [035-01]: (update area set alive_time=1460247565,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:20:50 [035-01]: (update area set alive_time=1460247650,idle=9994,players=0,se) affected 0 rows
+10.04.16 02:21:37 [001-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:21:47 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:22:15 [035-01]: (update area set alive_time=1460247735,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:23:41 [035-01]: (update area set alive_time=1460247821,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:25:06 [035-01]: (update area set alive_time=1460247906,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:26:31 [035-01]: (update area set alive_time=1460247991,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:27:57 [035-01]: (update area set alive_time=1460248077,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:29:22 [035-01]: (update area set alive_time=1460248162,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:30:47 [035-01]: (update area set alive_time=1460248247,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:32:13 [035-01]: (update area set alive_time=1460248333,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:33:38 [035-01]: (update area set alive_time=1460248418,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:35:03 [035-01]: (update area set alive_time=1460248503,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:36:29 [035-01]: (update area set alive_time=1460248589,idle=9994,players=0,se) affected 0 rows
+10.04.16 02:37:54 [035-01]: (update area set alive_time=1460248674,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:39:19 [035-01]: (update area set alive_time=1460248759,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:40:45 [035-01]: (update area set alive_time=1460248845,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:42:10 [035-01]: (update area set alive_time=1460248930,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:43:35 [035-01]: (update area set alive_time=1460249015,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:45:01 [035-01]: (update area set alive_time=1460249101,idle=9994,players=0,se) affected 0 rows
+10.04.16 02:46:26 [035-01]: (update area set alive_time=1460249186,idle=9994,players=0,se) affected 0 rows
+10.04.16 02:47:51 [035-01]: (update area set alive_time=1460249271,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:49:17 [035-01]: (update area set alive_time=1460249357,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:50:42 [035-01]: (update area set alive_time=1460249442,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:52:07 [035-01]: (update area set alive_time=1460249527,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:53:33 [035-01]: (update area set alive_time=1460249613,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:54:58 [035-01]: (update area set alive_time=1460249698,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:56:23 [035-01]: (update area set alive_time=1460249783,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:56:47 [029-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:57:16 [028-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:57:29 [029-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:57:49 [035-01]: (update area set alive_time=1460249869,idle=9995,players=0,se) affected 0 rows
+10.04.16 02:57:52 [017-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:58:01 [016-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:58:20 [017-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:58:24 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 02:59:14 [035-01]: (update area set alive_time=1460249954,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:00:39 [035-01]: (update area set alive_time=1460250039,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:02:05 [035-01]: (update area set alive_time=1460250125,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:02:17 [001-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 03:02:23 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 03:03:30 [035-01]: (update area set alive_time=1460250210,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:04:55 [035-01]: (update area set alive_time=1460250295,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:06:21 [035-01]: (update area set alive_time=1460250381,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:07:46 [035-01]: (update area set alive_time=1460250466,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:09:11 [035-01]: (update area set alive_time=1460250551,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:10:37 [035-01]: (update area set alive_time=1460250637,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:12:02 [035-01]: (update area set alive_time=1460250722,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:13:27 [035-01]: (update area set alive_time=1460250807,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:14:53 [035-01]: (update area set alive_time=1460250893,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:16:18 [035-01]: (update area set alive_time=1460250978,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:17:43 [035-01]: (update area set alive_time=1460251063,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:19:09 [035-01]: (update area set alive_time=1460251149,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:20:34 [035-01]: (update area set alive_time=1460251234,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:21:59 [035-01]: (update area set alive_time=1460251319,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:23:25 [035-01]: (update area set alive_time=1460251405,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:24:50 [035-01]: (update area set alive_time=1460251490,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:26:15 [035-01]: (update area set alive_time=1460251575,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:27:41 [035-01]: (update area set alive_time=1460251661,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:29:06 [035-01]: (update area set alive_time=1460251746,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:30:31 [035-01]: (update area set alive_time=1460251831,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:31:57 [035-01]: (update area set alive_time=1460251917,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:33:22 [035-01]: (update area set alive_time=1460252002,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:34:47 [035-01]: (update area set alive_time=1460252087,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:36:13 [035-01]: (update area set alive_time=1460252173,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:37:38 [035-01]: (update area set alive_time=1460252258,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:39:03 [035-01]: (update area set alive_time=1460252343,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:40:29 [035-01]: (update area set alive_time=1460252429,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:41:54 [035-01]: (update area set alive_time=1460252514,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:43:19 [035-01]: (update area set alive_time=1460252599,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:44:45 [035-01]: (update area set alive_time=1460252685,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:46:10 [035-01]: (update area set alive_time=1460252770,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:47:35 [035-01]: (update area set alive_time=1460252855,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:49:01 [035-01]: (update area set alive_time=1460252941,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:50:26 [035-01]: (update area set alive_time=1460253026,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:51:51 [035-01]: (update area set alive_time=1460253111,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:53:17 [035-01]: (update area set alive_time=1460253197,idle=9994,players=0,se) affected 0 rows
+10.04.16 03:54:42 [035-01]: (update area set alive_time=1460253282,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:56:07 [035-01]: (update area set alive_time=1460253367,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:56:44 [001-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 03:57:33 [035-01]: (update area set alive_time=1460253453,idle=9995,players=0,se) affected 0 rows
+10.04.16 03:57:59 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 03:58:58 [035-01]: (update area set alive_time=1460253538,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:00:23 [035-01]: (update area set alive_time=1460253623,idle=9994,players=0,se) affected 0 rows
+10.04.16 04:01:49 [035-01]: (update area set alive_time=1460253709,idle=9994,players=0,se) affected 0 rows
+10.04.16 04:03:14 [035-01]: (update area set alive_time=1460253794,idle=9994,players=0,se) affected 0 rows
+10.04.16 04:04:39 [035-01]: (update area set alive_time=1460253879,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:06:05 [035-01]: (update area set alive_time=1460253965,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:07:30 [035-01]: (update area set alive_time=1460254050,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:08:30 [001-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 04:08:36 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 04:08:55 [035-01]: (update area set alive_time=1460254135,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:10:21 [035-01]: (update area set alive_time=1460254221,idle=9994,players=0,se) affected 0 rows
+10.04.16 04:11:46 [035-01]: (update area set alive_time=1460254306,idle=9994,players=0,se) affected 0 rows
+10.04.16 04:13:11 [035-01]: (update area set alive_time=1460254391,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:14:37 [035-01]: (update area set alive_time=1460254477,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:16:02 [035-01]: (update area set alive_time=1460254562,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:17:27 [035-01]: (update area set alive_time=1460254647,idle=9994,players=0,se) affected 0 rows
+10.04.16 04:18:53 [035-01]: (update area set alive_time=1460254733,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:20:18 [035-01]: (update area set alive_time=1460254818,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:20:30 [001-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 04:21:43 [035-01]: (update area set alive_time=1460254903,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:23:09 [035-01]: (update area set alive_time=1460254989,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:23:11 [003-01]: sanitize_item: cannot deal with item Helmet of character Drakonous
+10.04.16 04:24:34 [035-01]: (update area set alive_time=1460255074,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:25:59 [035-01]: (update area set alive_time=1460255159,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:27:25 [035-01]: (update area set alive_time=1460255245,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:28:50 [035-01]: (update area set alive_time=1460255330,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:30:15 [035-01]: (update area set alive_time=1460255415,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:31:41 [035-01]: (update area set alive_time=1460255501,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:33:06 [035-01]: (update area set alive_time=1460255586,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:34:31 [035-01]: (update area set alive_time=1460255671,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:35:57 [035-01]: (update area set alive_time=1460255757,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:37:22 [035-01]: (update area set alive_time=1460255842,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:38:47 [035-01]: (update area set alive_time=1460255927,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:40:13 [035-01]: (update area set alive_time=1460256013,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:41:38 [035-01]: (update area set alive_time=1460256098,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:43:03 [035-01]: (update area set alive_time=1460256183,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:44:29 [035-01]: (update area set alive_time=1460256269,idle=9994,players=0,se) affected 0 rows
+10.04.16 04:45:54 [035-01]: (update area set alive_time=1460256354,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:47:19 [035-01]: (update area set alive_time=1460256439,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:48:45 [035-01]: (update area set alive_time=1460256525,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:50:10 [035-01]: (update area set alive_time=1460256610,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:51:35 [035-01]: (update area set alive_time=1460256695,idle=9994,players=0,se) affected 0 rows
+10.04.16 04:53:01 [035-01]: (update area set alive_time=1460256781,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:54:26 [035-01]: (update area set alive_time=1460256866,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:55:51 [035-01]: (update area set alive_time=1460256951,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:57:17 [035-01]: (update area set alive_time=1460257037,idle=9995,players=0,se) affected 0 rows
+10.04.16 04:58:42 [035-01]: (update area set alive_time=1460257122,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:00:07 [035-01]: (update area set alive_time=1460257207,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:01:33 [035-01]: (update area set alive_time=1460257293,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:02:58 [035-01]: (update area set alive_time=1460257378,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:04:23 [035-01]: (update area set alive_time=1460257463,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:05:49 [035-01]: (update area set alive_time=1460257549,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:07:14 [035-01]: (update area set alive_time=1460257634,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:08:39 [035-01]: (update area set alive_time=1460257719,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:10:05 [035-01]: (update area set alive_time=1460257805,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:11:30 [035-01]: (update area set alive_time=1460257890,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:12:55 [035-01]: (update area set alive_time=1460257975,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:14:21 [035-01]: (update area set alive_time=1460258061,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:15:46 [035-01]: (update area set alive_time=1460258146,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:17:11 [035-01]: (update area set alive_time=1460258231,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:18:37 [035-01]: (update area set alive_time=1460258317,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:20:02 [035-01]: (update area set alive_time=1460258402,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:21:27 [035-01]: (update area set alive_time=1460258487,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:22:53 [035-01]: (update area set alive_time=1460258573,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:24:18 [035-01]: (update area set alive_time=1460258658,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:25:43 [035-01]: (update area set alive_time=1460258743,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:27:09 [035-01]: (update area set alive_time=1460258829,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:28:34 [035-01]: (update area set alive_time=1460258914,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:29:59 [035-01]: (update area set alive_time=1460258999,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:31:25 [035-01]: (update area set alive_time=1460259085,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:32:50 [035-01]: (update area set alive_time=1460259170,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:34:15 [035-01]: (update area set alive_time=1460259255,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:35:40 [035-01]: (update area set alive_time=1460259340,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:37:06 [035-01]: (update area set alive_time=1460259426,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:38:31 [035-01]: (update area set alive_time=1460259511,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:39:56 [035-01]: (update area set alive_time=1460259596,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:41:22 [035-01]: (update area set alive_time=1460259682,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:42:47 [035-01]: (update area set alive_time=1460259767,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:44:12 [035-01]: (update area set alive_time=1460259852,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:45:38 [035-01]: (update area set alive_time=1460259938,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:47:03 [035-01]: (update area set alive_time=1460260023,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:48:28 [035-01]: (update area set alive_time=1460260108,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:49:54 [035-01]: (update area set alive_time=1460260194,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:51:19 [035-01]: (update area set alive_time=1460260279,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:52:44 [035-01]: (update area set alive_time=1460260364,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:54:10 [035-01]: (update area set alive_time=1460260450,idle=9994,players=0,se) affected 0 rows
+10.04.16 05:55:35 [035-01]: (update area set alive_time=1460260535,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:57:00 [035-01]: (update area set alive_time=1460260620,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:58:26 [035-01]: (update area set alive_time=1460260706,idle=9995,players=0,se) affected 0 rows
+10.04.16 05:59:51 [035-01]: (update area set alive_time=1460260791,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:01:16 [035-01]: (update area set alive_time=1460260876,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:02:42 [035-01]: (update area set alive_time=1460260962,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:04:07 [035-01]: (update area set alive_time=1460261047,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:05:32 [035-01]: (update area set alive_time=1460261132,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:06:58 [035-01]: (update area set alive_time=1460261218,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:08:23 [035-01]: (update area set alive_time=1460261303,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:09:48 [035-01]: (update area set alive_time=1460261388,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:11:14 [035-01]: (update area set alive_time=1460261474,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:12:39 [035-01]: (update area set alive_time=1460261559,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:14:04 [035-01]: (update area set alive_time=1460261644,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:15:30 [035-01]: (update area set alive_time=1460261730,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:16:55 [035-01]: (update area set alive_time=1460261815,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:18:20 [035-01]: (update area set alive_time=1460261900,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:19:46 [035-01]: (update area set alive_time=1460261986,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:21:11 [035-01]: (update area set alive_time=1460262071,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:22:36 [035-01]: (update area set alive_time=1460262156,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:24:02 [035-01]: (update area set alive_time=1460262242,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:25:27 [035-01]: (update area set alive_time=1460262327,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:26:52 [035-01]: (update area set alive_time=1460262412,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:28:18 [035-01]: (update area set alive_time=1460262498,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:29:43 [035-01]: (update area set alive_time=1460262583,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:31:08 [035-01]: (update area set alive_time=1460262668,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:32:34 [035-01]: (update area set alive_time=1460262754,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:33:59 [035-01]: (update area set alive_time=1460262839,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:35:24 [035-01]: (update area set alive_time=1460262924,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:36:50 [035-01]: (update area set alive_time=1460263010,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:38:15 [035-01]: (update area set alive_time=1460263095,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:39:40 [035-01]: (update area set alive_time=1460263180,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:41:06 [035-01]: (update area set alive_time=1460263266,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:42:31 [035-01]: (update area set alive_time=1460263351,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:43:56 [035-01]: (update area set alive_time=1460263436,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:45:22 [035-01]: (update area set alive_time=1460263522,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:46:47 [035-01]: (update area set alive_time=1460263607,idle=9994,players=0,se) affected 0 rows
+10.04.16 06:48:12 [035-01]: (update area set alive_time=1460263692,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:49:38 [035-01]: (update area set alive_time=1460263778,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:51:03 [035-01]: (update area set alive_time=1460263863,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:52:28 [035-01]: (update area set alive_time=1460263948,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:53:54 [035-01]: (update area set alive_time=1460264034,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:55:19 [035-01]: (update area set alive_time=1460264119,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:56:44 [035-01]: (update area set alive_time=1460264204,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:58:10 [035-01]: (update area set alive_time=1460264290,idle=9995,players=0,se) affected 0 rows
+10.04.16 06:59:35 [035-01]: (update area set alive_time=1460264375,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:01:00 [035-01]: (update area set alive_time=1460264460,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:02:26 [035-01]: (update area set alive_time=1460264546,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:03:51 [035-01]: (update area set alive_time=1460264631,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:05:16 [035-01]: (update area set alive_time=1460264716,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:06:42 [035-01]: (update area set alive_time=1460264802,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:08:07 [035-01]: (update area set alive_time=1460264887,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:09:32 [035-01]: (update area set alive_time=1460264972,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:10:58 [035-01]: (update area set alive_time=1460265058,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:12:23 [035-01]: (update area set alive_time=1460265143,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:13:48 [035-01]: (update area set alive_time=1460265228,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:15:14 [035-01]: (update area set alive_time=1460265314,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:16:39 [035-01]: (update area set alive_time=1460265399,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:18:04 [035-01]: (update area set alive_time=1460265484,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:19:30 [035-01]: (update area set alive_time=1460265570,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:20:55 [035-01]: (update area set alive_time=1460265655,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:22:20 [035-01]: (update area set alive_time=1460265740,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:23:46 [035-01]: (update area set alive_time=1460265826,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:25:11 [035-01]: (update area set alive_time=1460265911,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:26:36 [035-01]: (update area set alive_time=1460265996,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:28:02 [035-01]: (update area set alive_time=1460266082,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:29:27 [035-01]: (update area set alive_time=1460266167,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:30:52 [035-01]: (update area set alive_time=1460266252,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:32:18 [035-01]: (update area set alive_time=1460266338,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:33:43 [035-01]: (update area set alive_time=1460266423,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:35:08 [035-01]: (update area set alive_time=1460266508,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:36:34 [035-01]: (update area set alive_time=1460266594,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:37:59 [035-01]: (update area set alive_time=1460266679,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:39:24 [035-01]: (update area set alive_time=1460266764,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:40:50 [035-01]: (update area set alive_time=1460266850,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:42:15 [035-01]: (update area set alive_time=1460266935,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:43:40 [035-01]: (update area set alive_time=1460267020,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:45:06 [035-01]: (update area set alive_time=1460267106,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:46:31 [035-01]: (update area set alive_time=1460267191,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:47:56 [035-01]: (update area set alive_time=1460267276,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:49:22 [035-01]: (update area set alive_time=1460267362,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:50:47 [035-01]: (update area set alive_time=1460267447,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:52:12 [035-01]: (update area set alive_time=1460267532,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:53:38 [035-01]: (update area set alive_time=1460267618,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:55:03 [035-01]: (update area set alive_time=1460267703,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:56:28 [035-01]: (update area set alive_time=1460267788,idle=9994,players=0,se) affected 0 rows
+10.04.16 07:57:54 [035-01]: (update area set alive_time=1460267874,idle=9995,players=0,se) affected 0 rows
+10.04.16 07:59:19 [035-01]: (update area set alive_time=1460267959,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:00:44 [035-01]: (update area set alive_time=1460268044,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:02:10 [035-01]: (update area set alive_time=1460268130,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:03:35 [035-01]: (update area set alive_time=1460268215,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:05:00 [035-01]: (update area set alive_time=1460268300,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:06:26 [035-01]: (update area set alive_time=1460268386,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:07:51 [035-01]: (update area set alive_time=1460268471,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:09:16 [035-01]: (update area set alive_time=1460268556,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:10:42 [035-01]: (update area set alive_time=1460268642,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:12:07 [035-01]: (update area set alive_time=1460268727,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:13:32 [035-01]: (update area set alive_time=1460268812,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:14:58 [035-01]: (update area set alive_time=1460268898,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:16:23 [035-01]: (update area set alive_time=1460268983,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:17:48 [035-01]: (update area set alive_time=1460269068,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:19:14 [035-01]: (update area set alive_time=1460269154,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:20:39 [035-01]: (update area set alive_time=1460269239,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:22:04 [035-01]: (update area set alive_time=1460269324,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:23:30 [035-01]: (update area set alive_time=1460269410,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:24:55 [035-01]: (update area set alive_time=1460269495,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:26:20 [035-01]: (update area set alive_time=1460269580,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:27:46 [035-01]: (update area set alive_time=1460269666,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:29:11 [035-01]: (update area set alive_time=1460269751,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:30:36 [035-01]: (update area set alive_time=1460269836,idle=9993,players=0,se) affected 0 rows
+10.04.16 08:32:02 [035-01]: (update area set alive_time=1460269922,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:33:27 [035-01]: (update area set alive_time=1460270007,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:34:52 [035-01]: (update area set alive_time=1460270092,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:36:18 [035-01]: (update area set alive_time=1460270178,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:37:43 [035-01]: (update area set alive_time=1460270263,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:39:08 [035-01]: (update area set alive_time=1460270348,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:40:34 [035-01]: (update area set alive_time=1460270434,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:41:59 [035-01]: (update area set alive_time=1460270519,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:43:24 [035-01]: (update area set alive_time=1460270604,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:44:50 [035-01]: (update area set alive_time=1460270690,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:46:15 [035-01]: (update area set alive_time=1460270775,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:47:40 [035-01]: (update area set alive_time=1460270860,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:49:06 [035-01]: (update area set alive_time=1460270946,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:50:31 [035-01]: (update area set alive_time=1460271031,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:51:56 [035-01]: (update area set alive_time=1460271116,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:53:22 [035-01]: (update area set alive_time=1460271202,idle=9994,players=0,se) affected 0 rows
+10.04.16 08:54:47 [035-01]: (update area set alive_time=1460271287,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:56:12 [035-01]: (update area set alive_time=1460271372,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:57:38 [035-01]: (update area set alive_time=1460271458,idle=9995,players=0,se) affected 0 rows
+10.04.16 08:59:03 [035-01]: (update area set alive_time=1460271543,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:00:28 [035-01]: (update area set alive_time=1460271628,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:01:54 [035-01]: (update area set alive_time=1460271714,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:03:19 [035-01]: (update area set alive_time=1460271799,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:04:44 [035-01]: (update area set alive_time=1460271884,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:06:10 [035-01]: (update area set alive_time=1460271970,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:07:35 [035-01]: (update area set alive_time=1460272055,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:09:00 [035-01]: (update area set alive_time=1460272140,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:10:26 [035-01]: (update area set alive_time=1460272226,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:11:51 [035-01]: (update area set alive_time=1460272311,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:13:16 [035-01]: (update area set alive_time=1460272396,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:14:42 [035-01]: (update area set alive_time=1460272482,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:16:07 [035-01]: (update area set alive_time=1460272567,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:17:32 [035-01]: (update area set alive_time=1460272652,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:18:58 [035-01]: (update area set alive_time=1460272738,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:20:23 [035-01]: (update area set alive_time=1460272823,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:21:48 [035-01]: (update area set alive_time=1460272908,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:23:14 [035-01]: (update area set alive_time=1460272994,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:24:39 [035-01]: (update area set alive_time=1460273079,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:26:04 [035-01]: (update area set alive_time=1460273164,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:27:30 [035-01]: (update area set alive_time=1460273250,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:28:55 [035-01]: (update area set alive_time=1460273335,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:30:20 [035-01]: (update area set alive_time=1460273420,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:31:46 [035-01]: (update area set alive_time=1460273506,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:33:11 [035-01]: (update area set alive_time=1460273591,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:34:36 [035-01]: (update area set alive_time=1460273676,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:36:02 [035-01]: (update area set alive_time=1460273762,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:37:27 [035-01]: (update area set alive_time=1460273847,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:38:52 [035-01]: (update area set alive_time=1460273932,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:40:18 [035-01]: (update area set alive_time=1460274018,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:41:43 [035-01]: (update area set alive_time=1460274103,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:43:08 [035-01]: (update area set alive_time=1460274188,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:44:34 [035-01]: (update area set alive_time=1460274274,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:45:59 [035-01]: (update area set alive_time=1460274359,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:47:24 [035-01]: (update area set alive_time=1460274444,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:48:50 [035-01]: (update area set alive_time=1460274530,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:50:15 [035-01]: (update area set alive_time=1460274615,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:51:40 [035-01]: (update area set alive_time=1460274700,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:53:06 [035-01]: (update area set alive_time=1460274786,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:54:31 [035-01]: (update area set alive_time=1460274871,idle=9994,players=0,se) affected 0 rows
+10.04.16 09:55:56 [035-01]: (update area set alive_time=1460274956,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:57:22 [035-01]: (update area set alive_time=1460275042,idle=9995,players=0,se) affected 0 rows
+10.04.16 09:58:47 [035-01]: (update area set alive_time=1460275127,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:00:12 [035-01]: (update area set alive_time=1460275212,idle=9994,players=0,se) affected 0 rows
+10.04.16 10:01:38 [035-01]: (update area set alive_time=1460275298,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:03:03 [035-01]: (update area set alive_time=1460275383,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:04:28 [035-01]: (update area set alive_time=1460275468,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:05:54 [035-01]: (update area set alive_time=1460275554,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:07:19 [035-01]: (update area set alive_time=1460275639,idle=9994,players=0,se) affected 0 rows
+10.04.16 10:08:44 [035-01]: (update area set alive_time=1460275724,idle=9994,players=0,se) affected 0 rows
+10.04.16 10:10:10 [035-01]: (update area set alive_time=1460275810,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:11:35 [035-01]: (update area set alive_time=1460275895,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:13:00 [035-01]: (update area set alive_time=1460275980,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:14:26 [035-01]: (update area set alive_time=1460276066,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:15:51 [035-01]: (update area set alive_time=1460276151,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:17:16 [035-01]: (update area set alive_time=1460276236,idle=9996,players=0,se) affected 0 rows
+10.04.16 10:18:42 [035-01]: (update area set alive_time=1460276322,idle=9996,players=0,se) affected 0 rows
+10.04.16 10:20:07 [035-01]: (update area set alive_time=1460276407,idle=9994,players=0,se) affected 0 rows
+10.04.16 10:21:32 [035-01]: (update area set alive_time=1460276492,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:22:58 [035-01]: (update area set alive_time=1460276578,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:24:23 [035-01]: (update area set alive_time=1460276663,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:25:48 [035-01]: (update area set alive_time=1460276748,idle=9996,players=0,se) affected 0 rows
+10.04.16 10:27:14 [035-01]: (update area set alive_time=1460276834,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:28:39 [035-01]: (update area set alive_time=1460276919,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:30:04 [035-01]: (update area set alive_time=1460277004,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:31:30 [035-01]: (update area set alive_time=1460277090,idle=9996,players=0,se) affected 0 rows
+10.04.16 10:32:55 [035-01]: (update area set alive_time=1460277175,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:34:20 [035-01]: (update area set alive_time=1460277260,idle=9994,players=0,se) affected 0 rows
+10.04.16 10:35:46 [035-01]: (update area set alive_time=1460277346,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:37:11 [035-01]: (update area set alive_time=1460277431,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:38:36 [035-01]: (update area set alive_time=1460277516,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:40:02 [035-01]: (update area set alive_time=1460277602,idle=9996,players=0,se) affected 0 rows
+10.04.16 10:41:27 [035-01]: (update area set alive_time=1460277687,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:42:52 [035-01]: (update area set alive_time=1460277772,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:44:18 [035-01]: (update area set alive_time=1460277858,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:45:43 [035-01]: (update area set alive_time=1460277943,idle=9996,players=0,se) affected 0 rows
+10.04.16 10:47:08 [035-01]: (update area set alive_time=1460278028,idle=9994,players=0,se) affected 0 rows
+10.04.16 10:48:34 [035-01]: (update area set alive_time=1460278114,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:49:59 [035-01]: (update area set alive_time=1460278199,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:51:24 [035-01]: (update area set alive_time=1460278284,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:52:50 [035-01]: (update area set alive_time=1460278370,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:54:15 [035-01]: (update area set alive_time=1460278455,idle=9994,players=0,se) affected 0 rows
+10.04.16 10:55:40 [035-01]: (update area set alive_time=1460278540,idle=9994,players=0,se) affected 0 rows
+10.04.16 10:57:06 [035-01]: (update area set alive_time=1460278626,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:58:31 [035-01]: (update area set alive_time=1460278711,idle=9995,players=0,se) affected 0 rows
+10.04.16 10:59:56 [035-01]: (update area set alive_time=1460278796,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:01:22 [035-01]: (update area set alive_time=1460278882,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:02:47 [035-01]: (update area set alive_time=1460278967,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:04:12 [035-01]: (update area set alive_time=1460279052,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:05:38 [035-01]: (update area set alive_time=1460279138,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:07:03 [035-01]: (update area set alive_time=1460279223,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:08:28 [035-01]: (update area set alive_time=1460279308,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:09:54 [035-01]: (update area set alive_time=1460279394,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:11:19 [035-01]: (update area set alive_time=1460279479,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:12:44 [035-01]: (update area set alive_time=1460279564,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:14:10 [035-01]: (update area set alive_time=1460279650,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:15:35 [035-01]: (update area set alive_time=1460279735,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:17:00 [035-01]: (update area set alive_time=1460279820,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:18:26 [035-01]: (update area set alive_time=1460279906,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:19:51 [035-01]: (update area set alive_time=1460279991,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:21:16 [035-01]: (update area set alive_time=1460280076,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:22:41 [035-01]: (update area set alive_time=1460280161,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:24:07 [035-01]: (update area set alive_time=1460280247,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:25:32 [035-01]: (update area set alive_time=1460280332,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:26:57 [035-01]: (update area set alive_time=1460280417,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:28:23 [035-01]: (update area set alive_time=1460280503,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:29:48 [035-01]: (update area set alive_time=1460280588,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:31:13 [035-01]: (update area set alive_time=1460280673,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:32:39 [035-01]: (update area set alive_time=1460280759,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:34:04 [035-01]: (update area set alive_time=1460280844,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:35:29 [035-01]: (update area set alive_time=1460280929,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:36:55 [035-01]: (update area set alive_time=1460281015,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:38:20 [035-01]: (update area set alive_time=1460281100,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:39:45 [035-01]: (update area set alive_time=1460281185,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:41:11 [035-01]: (update area set alive_time=1460281271,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:42:36 [035-01]: (update area set alive_time=1460281356,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:44:01 [035-01]: (update area set alive_time=1460281441,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:45:27 [035-01]: (update area set alive_time=1460281527,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:46:52 [035-01]: (update area set alive_time=1460281612,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:48:17 [035-01]: (update area set alive_time=1460281697,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:49:43 [035-01]: (update area set alive_time=1460281783,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:51:08 [035-01]: (update area set alive_time=1460281868,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:52:33 [035-01]: (update area set alive_time=1460281953,idle=9994,players=0,se) affected 0 rows
+10.04.16 11:53:59 [035-01]: (update area set alive_time=1460282039,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:55:24 [035-01]: (update area set alive_time=1460282124,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:56:49 [035-01]: (update area set alive_time=1460282209,idle=9995,players=0,se) affected 0 rows
+10.04.16 11:58:15 [035-01]: (update area set alive_time=1460282295,idle=9993,players=0,se) affected 0 rows
+10.04.16 11:59:40 [035-01]: (update area set alive_time=1460282380,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:01:05 [035-01]: (update area set alive_time=1460282465,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:02:31 [035-01]: (update area set alive_time=1460282551,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:03:56 [035-01]: (update area set alive_time=1460282636,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:05:21 [035-01]: (update area set alive_time=1460282721,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:06:47 [035-01]: (update area set alive_time=1460282807,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:08:12 [035-01]: (update area set alive_time=1460282892,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:09:37 [035-01]: (update area set alive_time=1460282977,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:11:03 [035-01]: (update area set alive_time=1460283063,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:12:28 [035-01]: (update area set alive_time=1460283148,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:13:53 [035-01]: (update area set alive_time=1460283233,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:15:19 [035-01]: (update area set alive_time=1460283319,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:16:44 [035-01]: (update area set alive_time=1460283404,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:18:09 [035-01]: (update area set alive_time=1460283489,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:19:35 [035-01]: (update area set alive_time=1460283575,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:21:00 [035-01]: (update area set alive_time=1460283660,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:22:25 [035-01]: (update area set alive_time=1460283745,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:23:51 [035-01]: (update area set alive_time=1460283831,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:25:16 [035-01]: (update area set alive_time=1460283916,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:26:41 [035-01]: (update area set alive_time=1460284001,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:28:07 [035-01]: (update area set alive_time=1460284087,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:29:32 [035-01]: (update area set alive_time=1460284172,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:30:57 [035-01]: (update area set alive_time=1460284257,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:32:23 [035-01]: (update area set alive_time=1460284343,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:33:48 [035-01]: (update area set alive_time=1460284428,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:35:13 [035-01]: (update area set alive_time=1460284513,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:36:39 [035-01]: (update area set alive_time=1460284599,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:38:04 [035-01]: (update area set alive_time=1460284684,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:39:29 [035-01]: (update area set alive_time=1460284769,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:40:55 [035-01]: (update area set alive_time=1460284855,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:42:20 [035-01]: (update area set alive_time=1460284940,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:43:45 [035-01]: (update area set alive_time=1460285025,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:45:11 [035-01]: (update area set alive_time=1460285111,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:46:36 [035-01]: (update area set alive_time=1460285196,idle=9994,players=0,se) affected 0 rows
+10.04.16 12:48:01 [035-01]: (update area set alive_time=1460285281,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:49:27 [035-01]: (update area set alive_time=1460285367,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:50:52 [035-01]: (update area set alive_time=1460285452,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:52:17 [035-01]: (update area set alive_time=1460285537,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:53:43 [035-01]: (update area set alive_time=1460285623,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:55:08 [035-01]: (update area set alive_time=1460285708,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:56:33 [035-01]: (update area set alive_time=1460285793,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:57:59 [035-01]: (update area set alive_time=1460285879,idle=9995,players=0,se) affected 0 rows
+10.04.16 12:59:24 [035-01]: (update area set alive_time=1460285964,idle=9993,players=0,se) affected 0 rows
+10.04.16 13:00:49 [035-01]: (update area set alive_time=1460286049,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:02:15 [035-01]: (update area set alive_time=1460286135,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:03:40 [035-01]: (update area set alive_time=1460286220,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:05:05 [035-01]: (update area set alive_time=1460286305,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:06:31 [035-01]: (update area set alive_time=1460286391,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:07:56 [035-01]: (update area set alive_time=1460286476,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:09:21 [035-01]: (update area set alive_time=1460286561,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:10:47 [035-01]: (update area set alive_time=1460286647,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:12:12 [035-01]: (update area set alive_time=1460286732,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:13:37 [035-01]: (update area set alive_time=1460286817,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:15:03 [035-01]: (update area set alive_time=1460286903,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:16:28 [035-01]: (update area set alive_time=1460286988,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:17:53 [035-01]: (update area set alive_time=1460287073,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:19:19 [035-01]: (update area set alive_time=1460287159,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:20:44 [035-01]: (update area set alive_time=1460287244,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:22:09 [035-01]: (update area set alive_time=1460287329,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:23:35 [035-01]: (update area set alive_time=1460287415,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:25:00 [035-01]: (update area set alive_time=1460287500,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:26:25 [035-01]: (update area set alive_time=1460287585,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:27:51 [035-01]: (update area set alive_time=1460287671,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:29:16 [035-01]: (update area set alive_time=1460287756,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:30:41 [035-01]: (update area set alive_time=1460287841,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:32:07 [035-01]: (update area set alive_time=1460287927,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:33:32 [035-01]: (update area set alive_time=1460288012,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:34:57 [035-01]: (update area set alive_time=1460288097,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:36:23 [035-01]: (update area set alive_time=1460288183,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:37:48 [035-01]: (update area set alive_time=1460288268,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:39:13 [035-01]: (update area set alive_time=1460288353,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:40:39 [035-01]: (update area set alive_time=1460288439,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:42:04 [035-01]: (update area set alive_time=1460288524,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:43:29 [035-01]: (update area set alive_time=1460288609,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:44:55 [035-01]: (update area set alive_time=1460288695,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:46:20 [035-01]: (update area set alive_time=1460288780,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:47:45 [035-01]: (update area set alive_time=1460288865,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:49:11 [035-01]: (update area set alive_time=1460288951,idle=9994,players=0,se) affected 0 rows
+10.04.16 13:50:36 [035-01]: (update area set alive_time=1460289036,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:52:01 [035-01]: (update area set alive_time=1460289121,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:53:27 [035-01]: (update area set alive_time=1460289207,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:54:52 [035-01]: (update area set alive_time=1460289292,idle=9993,players=0,se) affected 0 rows
+10.04.16 13:56:17 [035-01]: (update area set alive_time=1460289377,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:57:43 [035-01]: (update area set alive_time=1460289463,idle=9995,players=0,se) affected 0 rows
+10.04.16 13:59:08 [035-01]: (update area set alive_time=1460289548,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:00:33 [035-01]: (update area set alive_time=1460289633,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:01:59 [035-01]: (update area set alive_time=1460289719,idle=9994,players=0,se) affected 0 rows
+10.04.16 14:03:24 [035-01]: (update area set alive_time=1460289804,idle=9994,players=0,se) affected 0 rows
+10.04.16 14:04:49 [035-01]: (update area set alive_time=1460289889,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:06:15 [035-01]: (update area set alive_time=1460289975,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:07:40 [035-01]: (update area set alive_time=1460290060,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:09:05 [035-01]: (update area set alive_time=1460290145,idle=9994,players=0,se) affected 0 rows
+10.04.16 14:10:31 [035-01]: (update area set alive_time=1460290231,idle=9994,players=0,se) affected 0 rows
+10.04.16 14:11:56 [035-01]: (update area set alive_time=1460290316,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:13:21 [035-01]: (update area set alive_time=1460290401,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:14:47 [035-01]: (update area set alive_time=1460290487,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:16:12 [035-01]: (update area set alive_time=1460290572,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:17:37 [035-01]: (update area set alive_time=1460290657,idle=9993,players=0,se) affected 0 rows
+10.04.16 14:19:03 [035-01]: (update area set alive_time=1460290743,idle=9994,players=0,se) affected 0 rows
+10.04.16 14:20:28 [035-01]: (update area set alive_time=1460290828,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:21:53 [035-01]: (update area set alive_time=1460290913,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:23:19 [035-01]: (update area set alive_time=1460290999,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:24:44 [035-01]: (update area set alive_time=1460291084,idle=9994,players=0,se) affected 0 rows
+10.04.16 14:26:09 [035-01]: (update area set alive_time=1460291169,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:27:35 [035-01]: (update area set alive_time=1460291255,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:29:00 [035-01]: (update area set alive_time=1460291340,idle=9996,players=0,se) affected 0 rows
+10.04.16 14:30:25 [035-01]: (update area set alive_time=1460291425,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:31:51 [035-01]: (update area set alive_time=1460291511,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:33:16 [035-01]: (update area set alive_time=1460291596,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:34:41 [035-01]: (update area set alive_time=1460291681,idle=9996,players=0,se) affected 0 rows
+10.04.16 14:36:07 [035-01]: (update area set alive_time=1460291767,idle=9996,players=0,se) affected 0 rows
+10.04.16 14:37:32 [035-01]: (update area set alive_time=1460291852,idle=9994,players=0,se) affected 0 rows
+10.04.16 14:38:57 [035-01]: (update area set alive_time=1460291937,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:40:23 [035-01]: (update area set alive_time=1460292023,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:41:48 [035-01]: (update area set alive_time=1460292108,idle=9996,players=0,se) affected 0 rows
+10.04.16 14:43:13 [035-01]: (update area set alive_time=1460292193,idle=9996,players=0,se) affected 0 rows
+10.04.16 14:44:39 [035-01]: (update area set alive_time=1460292279,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:46:04 [035-01]: (update area set alive_time=1460292364,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:47:29 [035-01]: (update area set alive_time=1460292449,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:48:55 [035-01]: (update area set alive_time=1460292535,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:50:20 [035-01]: (update area set alive_time=1460292620,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:51:45 [035-01]: (update area set alive_time=1460292705,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:53:11 [035-01]: (update area set alive_time=1460292791,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:54:36 [035-01]: (update area set alive_time=1460292876,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:56:01 [035-01]: (update area set alive_time=1460292961,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:57:27 [035-01]: (update area set alive_time=1460293047,idle=9995,players=0,se) affected 0 rows
+10.04.16 14:58:52 [035-01]: (update area set alive_time=1460293132,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:00:17 [035-01]: (update area set alive_time=1460293217,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:01:43 [035-01]: (update area set alive_time=1460293303,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:03:08 [035-01]: (update area set alive_time=1460293388,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:04:33 [035-01]: (update area set alive_time=1460293473,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:05:59 [035-01]: (update area set alive_time=1460293559,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:07:24 [035-01]: (update area set alive_time=1460293644,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:08:49 [035-01]: (update area set alive_time=1460293729,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:10:15 [035-01]: (update area set alive_time=1460293815,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:11:40 [035-01]: (update area set alive_time=1460293900,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:13:05 [035-01]: (update area set alive_time=1460293985,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:14:31 [035-01]: (update area set alive_time=1460294071,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:15:56 [035-01]: (update area set alive_time=1460294156,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:17:21 [035-01]: (update area set alive_time=1460294241,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:18:47 [035-01]: (update area set alive_time=1460294327,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:20:12 [035-01]: (update area set alive_time=1460294412,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:21:37 [035-01]: (update area set alive_time=1460294497,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:23:03 [035-01]: (update area set alive_time=1460294583,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:24:28 [035-01]: (update area set alive_time=1460294668,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:25:53 [035-01]: (update area set alive_time=1460294753,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:27:19 [035-01]: (update area set alive_time=1460294839,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:28:44 [035-01]: (update area set alive_time=1460294924,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:30:09 [035-01]: (update area set alive_time=1460295009,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:31:35 [035-01]: (update area set alive_time=1460295095,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:33:00 [035-01]: (update area set alive_time=1460295180,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:34:25 [035-01]: (update area set alive_time=1460295265,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:35:51 [035-01]: (update area set alive_time=1460295351,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:37:16 [035-01]: (update area set alive_time=1460295436,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:38:41 [035-01]: (update area set alive_time=1460295521,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:40:07 [035-01]: (update area set alive_time=1460295607,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:41:32 [035-01]: (update area set alive_time=1460295692,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:42:57 [035-01]: (update area set alive_time=1460295777,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:44:23 [035-01]: (update area set alive_time=1460295863,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:45:48 [035-01]: (update area set alive_time=1460295948,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:47:13 [035-01]: (update area set alive_time=1460296033,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:48:39 [035-01]: (update area set alive_time=1460296119,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:50:04 [035-01]: (update area set alive_time=1460296204,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:51:29 [035-01]: (update area set alive_time=1460296289,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:52:55 [035-01]: (update area set alive_time=1460296375,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:54:20 [035-01]: (update area set alive_time=1460296460,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:55:45 [035-01]: (update area set alive_time=1460296545,idle=9994,players=0,se) affected 0 rows
+10.04.16 15:57:11 [035-01]: (update area set alive_time=1460296631,idle=9995,players=0,se) affected 0 rows
+10.04.16 15:58:36 [035-01]: (update area set alive_time=1460296716,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:00:01 [035-01]: (update area set alive_time=1460296801,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:01:27 [035-01]: (update area set alive_time=1460296887,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:02:52 [035-01]: (update area set alive_time=1460296972,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:04:17 [035-01]: (update area set alive_time=1460297057,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:05:43 [035-01]: (update area set alive_time=1460297143,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:07:08 [035-01]: (update area set alive_time=1460297228,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:08:33 [035-01]: (update area set alive_time=1460297313,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:09:59 [035-01]: (update area set alive_time=1460297399,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:11:24 [035-01]: (update area set alive_time=1460297484,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:12:49 [035-01]: (update area set alive_time=1460297569,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:14:15 [035-01]: (update area set alive_time=1460297655,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:15:40 [035-01]: (update area set alive_time=1460297740,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:17:05 [035-01]: (update area set alive_time=1460297825,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:18:31 [035-01]: (update area set alive_time=1460297911,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:19:56 [035-01]: (update area set alive_time=1460297996,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:21:21 [035-01]: (update area set alive_time=1460298081,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:22:47 [035-01]: (update area set alive_time=1460298167,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:24:12 [035-01]: (update area set alive_time=1460298252,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:25:37 [035-01]: (update area set alive_time=1460298337,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:27:03 [035-01]: (update area set alive_time=1460298423,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:28:28 [035-01]: (update area set alive_time=1460298508,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:29:53 [035-01]: (update area set alive_time=1460298593,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:31:19 [035-01]: (update area set alive_time=1460298679,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:32:44 [035-01]: (update area set alive_time=1460298764,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:34:09 [035-01]: (update area set alive_time=1460298849,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:35:35 [035-01]: (update area set alive_time=1460298935,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:37:00 [035-01]: (update area set alive_time=1460299020,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:38:25 [035-01]: (update area set alive_time=1460299105,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:39:51 [035-01]: (update area set alive_time=1460299191,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:41:16 [035-01]: (update area set alive_time=1460299276,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:42:41 [035-01]: (update area set alive_time=1460299361,idle=9996,players=0,se) affected 0 rows
+10.04.16 16:44:07 [035-01]: (update area set alive_time=1460299447,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:45:32 [035-01]: (update area set alive_time=1460299532,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:46:57 [035-01]: (update area set alive_time=1460299617,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:48:23 [035-01]: (update area set alive_time=1460299703,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:49:48 [035-01]: (update area set alive_time=1460299788,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:51:13 [035-01]: (update area set alive_time=1460299873,idle=9994,players=0,se) affected 0 rows
+10.04.16 16:52:39 [035-01]: (update area set alive_time=1460299959,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:54:04 [035-01]: (update area set alive_time=1460300044,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:55:29 [035-01]: (update area set alive_time=1460300129,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:56:55 [035-01]: (update area set alive_time=1460300215,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:58:20 [035-01]: (update area set alive_time=1460300300,idle=9995,players=0,se) affected 0 rows
+10.04.16 16:59:45 [035-01]: (update area set alive_time=1460300385,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:01:11 [035-01]: (update area set alive_time=1460300471,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:02:36 [035-01]: (update area set alive_time=1460300556,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:04:01 [035-01]: (update area set alive_time=1460300641,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:05:27 [035-01]: (update area set alive_time=1460300727,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:06:52 [035-01]: (update area set alive_time=1460300812,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:08:17 [035-01]: (update area set alive_time=1460300897,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:09:42 [035-01]: (update area set alive_time=1460300982,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:11:08 [035-01]: (update area set alive_time=1460301068,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:12:33 [035-01]: (update area set alive_time=1460301153,idle=9994,players=0,se) affected 0 rows
+10.04.16 17:13:58 [035-01]: (update area set alive_time=1460301238,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:15:24 [035-01]: (update area set alive_time=1460301324,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:16:49 [035-01]: (update area set alive_time=1460301409,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:18:14 [035-01]: (update area set alive_time=1460301494,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:19:40 [035-01]: (update area set alive_time=1460301580,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:21:05 [035-01]: (update area set alive_time=1460301665,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:22:30 [035-01]: (update area set alive_time=1460301750,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:23:56 [035-01]: (update area set alive_time=1460301836,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:25:21 [035-01]: (update area set alive_time=1460301921,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:26:46 [035-01]: (update area set alive_time=1460302006,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:28:12 [035-01]: (update area set alive_time=1460302092,idle=9994,players=0,se) affected 0 rows
+10.04.16 17:29:37 [035-01]: (update area set alive_time=1460302177,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:31:02 [035-01]: (update area set alive_time=1460302262,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:32:28 [035-01]: (update area set alive_time=1460302348,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:33:53 [035-01]: (update area set alive_time=1460302433,idle=9996,players=0,se) affected 0 rows
+10.04.16 17:35:18 [035-01]: (update area set alive_time=1460302518,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:36:44 [035-01]: (update area set alive_time=1460302604,idle=9994,players=0,se) affected 0 rows
+10.04.16 17:38:09 [035-01]: (update area set alive_time=1460302689,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:39:34 [035-01]: (update area set alive_time=1460302774,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:41:00 [035-01]: (update area set alive_time=1460302860,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:42:25 [035-01]: (update area set alive_time=1460302945,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:43:50 [035-01]: (update area set alive_time=1460303030,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:45:16 [035-01]: (update area set alive_time=1460303116,idle=9994,players=0,se) affected 0 rows
+10.04.16 17:46:41 [035-01]: (update area set alive_time=1460303201,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:48:06 [035-01]: (update area set alive_time=1460303286,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:49:32 [035-01]: (update area set alive_time=1460303372,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:50:57 [035-01]: (update area set alive_time=1460303457,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:52:22 [035-01]: (update area set alive_time=1460303542,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:53:48 [035-01]: (update area set alive_time=1460303628,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:55:13 [035-01]: (update area set alive_time=1460303713,idle=9994,players=0,se) affected 0 rows
+10.04.16 17:56:38 [035-01]: (update area set alive_time=1460303798,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:58:04 [035-01]: (update area set alive_time=1460303884,idle=9995,players=0,se) affected 0 rows
+10.04.16 17:59:29 [035-01]: (update area set alive_time=1460303969,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:00:54 [035-01]: (update area set alive_time=1460304054,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:02:20 [035-01]: (update area set alive_time=1460304140,idle=9994,players=0,se) affected 0 rows
+10.04.16 18:03:45 [035-01]: (update area set alive_time=1460304225,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:05:10 [035-01]: (update area set alive_time=1460304310,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:06:36 [035-01]: (update area set alive_time=1460304396,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:08:01 [035-01]: (update area set alive_time=1460304481,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:09:26 [035-01]: (update area set alive_time=1460304566,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:10:52 [035-01]: (update area set alive_time=1460304652,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:12:17 [035-01]: (update area set alive_time=1460304737,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:13:42 [035-01]: (update area set alive_time=1460304822,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:15:08 [035-01]: (update area set alive_time=1460304908,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:16:33 [035-01]: (update area set alive_time=1460304993,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:17:58 [035-01]: (update area set alive_time=1460305078,idle=9994,players=0,se) affected 0 rows
+10.04.16 18:19:24 [035-01]: (update area set alive_time=1460305164,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:20:49 [035-01]: (update area set alive_time=1460305249,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:22:14 [035-01]: (update area set alive_time=1460305334,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:23:40 [035-01]: (update area set alive_time=1460305420,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:25:05 [035-01]: (update area set alive_time=1460305505,idle=9994,players=0,se) affected 0 rows
+10.04.16 18:26:30 [035-01]: (update area set alive_time=1460305590,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:27:56 [035-01]: (update area set alive_time=1460305676,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:29:21 [035-01]: (update area set alive_time=1460305761,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:30:46 [035-01]: (update area set alive_time=1460305846,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:32:12 [035-01]: (update area set alive_time=1460305932,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:33:37 [035-01]: (update area set alive_time=1460306017,idle=9994,players=0,se) affected 0 rows
+10.04.16 18:35:02 [035-01]: (update area set alive_time=1460306102,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:36:28 [035-01]: (update area set alive_time=1460306188,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:37:53 [035-01]: (update area set alive_time=1460306273,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:39:18 [035-01]: (update area set alive_time=1460306358,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:40:44 [035-01]: (update area set alive_time=1460306444,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:42:09 [035-01]: (update area set alive_time=1460306529,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:43:34 [035-01]: (update area set alive_time=1460306614,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:45:00 [035-01]: (update area set alive_time=1460306700,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:46:25 [035-01]: (update area set alive_time=1460306785,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:47:50 [035-01]: (update area set alive_time=1460306870,idle=9994,players=0,se) affected 0 rows
+10.04.16 18:49:16 [035-01]: (update area set alive_time=1460306956,idle=9994,players=0,se) affected 0 rows
+10.04.16 18:50:41 [035-01]: (update area set alive_time=1460307041,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:52:06 [035-01]: (update area set alive_time=1460307126,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:53:32 [035-01]: (update area set alive_time=1460307212,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:54:57 [035-01]: (update area set alive_time=1460307297,idle=9995,players=0,se) affected 0 rows
+10.04.16 18:56:22 [035-01]: (update area set alive_time=1460307382,idle=9994,players=0,se) affected 0 rows
+10.04.16 18:57:48 [035-01]: (update area set alive_time=1460307468,idle=9994,players=0,se) affected 0 rows
+10.04.16 18:59:13 [035-01]: (update area set alive_time=1460307553,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:00:38 [035-01]: (update area set alive_time=1460307638,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:02:04 [035-01]: (update area set alive_time=1460307724,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:03:29 [035-01]: (update area set alive_time=1460307809,idle=9994,players=0,se) affected 0 rows
+10.04.16 19:04:54 [035-01]: (update area set alive_time=1460307894,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:06:20 [035-01]: (update area set alive_time=1460307980,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:07:45 [035-01]: (update area set alive_time=1460308065,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:09:10 [035-01]: (update area set alive_time=1460308150,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:10:36 [035-01]: (update area set alive_time=1460308236,idle=9994,players=0,se) affected 0 rows
+10.04.16 19:12:01 [035-01]: (update area set alive_time=1460308321,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:13:26 [035-01]: (update area set alive_time=1460308406,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:14:52 [035-01]: (update area set alive_time=1460308492,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:16:17 [035-01]: (update area set alive_time=1460308577,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:17:42 [035-01]: (update area set alive_time=1460308662,idle=9994,players=0,se) affected 0 rows
+10.04.16 19:19:08 [035-01]: (update area set alive_time=1460308748,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:20:33 [035-01]: (update area set alive_time=1460308833,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:21:58 [035-01]: (update area set alive_time=1460308918,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:23:24 [035-01]: (update area set alive_time=1460309004,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:24:49 [035-01]: (update area set alive_time=1460309089,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:26:14 [035-01]: (update area set alive_time=1460309174,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:27:40 [035-01]: (update area set alive_time=1460309260,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:29:05 [035-01]: (update area set alive_time=1460309345,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:30:30 [035-01]: (update area set alive_time=1460309430,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:31:56 [035-01]: (update area set alive_time=1460309516,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:33:21 [035-01]: (update area set alive_time=1460309601,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:34:46 [035-01]: (update area set alive_time=1460309686,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:36:12 [035-01]: (update area set alive_time=1460309772,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:37:37 [035-01]: (update area set alive_time=1460309857,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:39:02 [035-01]: (update area set alive_time=1460309942,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:40:28 [035-01]: (update area set alive_time=1460310028,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:41:53 [035-01]: (update area set alive_time=1460310113,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:43:18 [035-01]: (update area set alive_time=1460310198,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:44:44 [035-01]: (update area set alive_time=1460310284,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:46:09 [035-01]: (update area set alive_time=1460310369,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:47:34 [035-01]: (update area set alive_time=1460310454,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:49:00 [035-01]: (update area set alive_time=1460310540,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:50:25 [035-01]: (update area set alive_time=1460310625,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:51:50 [035-01]: (update area set alive_time=1460310710,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:53:16 [035-01]: (update area set alive_time=1460310796,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:54:41 [035-01]: (update area set alive_time=1460310881,idle=9996,players=0,se) affected 0 rows
+10.04.16 19:56:06 [035-01]: (update area set alive_time=1460310966,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:57:32 [035-01]: (update area set alive_time=1460311052,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:58:50 [003-01]: sanitize_item: cannot deal with item God Sword of character Ballin
+10.04.16 19:58:57 [035-01]: (update area set alive_time=1460311137,idle=9995,players=0,se) affected 0 rows
+10.04.16 19:59:00 [021-01]: sanitize_item: cannot deal with item God Sword of character Ballin
+10.04.16 20:00:22 [035-01]: (update area set alive_time=1460311222,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:00:45 [021-01]: sanitize_item: cannot deal with item God Sword of character Ballin
+10.04.16 20:01:48 [035-01]: (update area set alive_time=1460311308,idle=9996,players=0,se) affected 0 rows
+10.04.16 20:03:13 [035-01]: (update area set alive_time=1460311393,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:04:38 [035-01]: (update area set alive_time=1460311478,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:06:04 [035-01]: (update area set alive_time=1460311564,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:07:29 [035-01]: (update area set alive_time=1460311649,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:08:54 [035-01]: (update area set alive_time=1460311734,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:10:20 [035-01]: (update area set alive_time=1460311820,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:11:45 [035-01]: (update area set alive_time=1460311905,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:13:10 [035-01]: (update area set alive_time=1460311990,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:14:36 [035-01]: (update area set alive_time=1460312076,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:16:01 [035-01]: (update area set alive_time=1460312161,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:17:26 [035-01]: (update area set alive_time=1460312246,idle=9996,players=0,se) affected 0 rows
+10.04.16 20:18:52 [035-01]: (update area set alive_time=1460312332,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:20:17 [035-01]: (update area set alive_time=1460312417,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:21:42 [035-01]: (update area set alive_time=1460312502,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:23:08 [035-01]: (update area set alive_time=1460312588,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:24:33 [035-01]: (update area set alive_time=1460312673,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:25:58 [035-01]: (update area set alive_time=1460312758,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:27:24 [035-01]: (update area set alive_time=1460312844,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:28:49 [035-01]: (update area set alive_time=1460312929,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:30:14 [035-01]: (update area set alive_time=1460313014,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:31:40 [035-01]: (update area set alive_time=1460313100,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:33:05 [035-01]: (update area set alive_time=1460313185,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:34:30 [035-01]: (update area set alive_time=1460313270,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:35:56 [035-01]: (update area set alive_time=1460313356,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:37:21 [035-01]: (update area set alive_time=1460313441,idle=9994,players=0,se) affected 0 rows
+10.04.16 20:38:46 [035-01]: (update area set alive_time=1460313526,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:40:12 [035-01]: (update area set alive_time=1460313612,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:41:37 [035-01]: (update area set alive_time=1460313697,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:43:02 [035-01]: (update area set alive_time=1460313782,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:44:28 [035-01]: (update area set alive_time=1460313868,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:45:53 [035-01]: (update area set alive_time=1460313953,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:47:18 [035-01]: (update area set alive_time=1460314038,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:48:44 [035-01]: (update area set alive_time=1460314124,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:50:09 [035-01]: (update area set alive_time=1460314209,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:51:34 [035-01]: (update area set alive_time=1460314294,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:53:00 [035-01]: (update area set alive_time=1460314380,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:54:25 [035-01]: (update area set alive_time=1460314465,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:55:50 [035-01]: (update area set alive_time=1460314550,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:57:16 [035-01]: (update area set alive_time=1460314636,idle=9995,players=0,se) affected 0 rows
+10.04.16 20:58:41 [035-01]: (update area set alive_time=1460314721,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:00:06 [035-01]: (update area set alive_time=1460314806,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:01:32 [035-01]: (update area set alive_time=1460314892,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:02:57 [035-01]: (update area set alive_time=1460314977,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:04:22 [035-01]: (update area set alive_time=1460315062,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:05:48 [035-01]: (update area set alive_time=1460315148,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:07:13 [035-01]: (update area set alive_time=1460315233,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:08:38 [035-01]: (update area set alive_time=1460315318,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:10:04 [035-01]: (update area set alive_time=1460315404,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:11:29 [035-01]: (update area set alive_time=1460315489,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:12:54 [035-01]: (update area set alive_time=1460315574,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:14:20 [035-01]: (update area set alive_time=1460315660,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:15:45 [035-01]: (update area set alive_time=1460315745,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:17:10 [035-01]: (update area set alive_time=1460315830,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:18:36 [035-01]: (update area set alive_time=1460315916,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:20:01 [035-01]: (update area set alive_time=1460316001,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:21:26 [035-01]: (update area set alive_time=1460316086,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:22:52 [035-01]: (update area set alive_time=1460316172,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:24:17 [035-01]: (update area set alive_time=1460316257,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:25:42 [035-01]: (update area set alive_time=1460316342,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:27:08 [035-01]: (update area set alive_time=1460316428,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:28:33 [035-01]: (update area set alive_time=1460316513,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:29:58 [035-01]: (update area set alive_time=1460316598,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:31:24 [035-01]: (update area set alive_time=1460316684,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:32:49 [035-01]: (update area set alive_time=1460316769,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:34:14 [035-01]: (update area set alive_time=1460316854,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:35:40 [035-01]: (update area set alive_time=1460316940,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:37:05 [035-01]: (update area set alive_time=1460317025,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:38:30 [035-01]: (update area set alive_time=1460317110,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:39:56 [035-01]: (update area set alive_time=1460317196,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:41:21 [035-01]: (update area set alive_time=1460317281,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:42:46 [035-01]: (update area set alive_time=1460317366,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:44:12 [035-01]: (update area set alive_time=1460317452,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:45:37 [035-01]: (update area set alive_time=1460317537,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:47:02 [035-01]: (update area set alive_time=1460317622,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:48:28 [035-01]: (update area set alive_time=1460317708,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:49:53 [035-01]: (update area set alive_time=1460317793,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:51:18 [035-01]: (update area set alive_time=1460317878,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:52:44 [035-01]: (update area set alive_time=1460317964,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:54:09 [035-01]: (update area set alive_time=1460318049,idle=9994,players=0,se) affected 0 rows
+10.04.16 21:55:34 [035-01]: (update area set alive_time=1460318134,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:57:00 [035-01]: (update area set alive_time=1460318220,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:58:25 [035-01]: (update area set alive_time=1460318305,idle=9995,players=0,se) affected 0 rows
+10.04.16 21:59:50 [035-01]: (update area set alive_time=1460318390,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:01:16 [035-01]: (update area set alive_time=1460318476,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:02:41 [035-01]: (update area set alive_time=1460318561,idle=9994,players=0,se) affected 0 rows
+10.04.16 22:04:06 [035-01]: (update area set alive_time=1460318646,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:05:32 [035-01]: (update area set alive_time=1460318732,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:06:57 [035-01]: (update area set alive_time=1460318817,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:08:22 [035-01]: (update area set alive_time=1460318902,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:09:48 [035-01]: (update area set alive_time=1460318988,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:11:13 [035-01]: (update area set alive_time=1460319073,idle=9994,players=0,se) affected 0 rows
+10.04.16 22:12:38 [035-01]: (update area set alive_time=1460319158,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:14:04 [035-01]: (update area set alive_time=1460319244,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:15:29 [035-01]: (update area set alive_time=1460319329,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:16:54 [035-01]: (update area set alive_time=1460319414,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:18:20 [035-01]: (update area set alive_time=1460319500,idle=9994,players=0,se) affected 0 rows
+10.04.16 22:19:45 [035-01]: (update area set alive_time=1460319585,idle=9994,players=0,se) affected 0 rows
+10.04.16 22:21:10 [035-01]: (update area set alive_time=1460319670,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:22:36 [035-01]: (update area set alive_time=1460319756,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:24:01 [035-01]: (update area set alive_time=1460319841,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:25:26 [035-01]: (update area set alive_time=1460319926,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:26:52 [035-01]: (update area set alive_time=1460320012,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:28:17 [035-01]: (update area set alive_time=1460320097,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:29:42 [035-01]: (update area set alive_time=1460320182,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:31:08 [035-01]: (update area set alive_time=1460320268,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:32:33 [035-01]: (update area set alive_time=1460320353,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:33:58 [035-01]: (update area set alive_time=1460320438,idle=9994,players=0,se) affected 0 rows
+10.04.16 22:35:24 [035-01]: (update area set alive_time=1460320524,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:36:49 [035-01]: (update area set alive_time=1460320609,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:38:14 [035-01]: (update area set alive_time=1460320694,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:39:40 [035-01]: (update area set alive_time=1460320780,idle=9995,players=0,se) affected 0 rows
+10.04.16 22:40:49 [030-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:49 [019-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:49 [008-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:49 [009-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:50 [016-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:50 [030-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:50 [019-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:50 [031-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:50 [020-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:50 [010-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:50 [008-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:50 [009-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [017-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [016-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [030-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [032-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [021-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [019-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [031-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [020-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [011-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [010-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [008-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:51 [009-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [001-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [018-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [017-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [016-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [030-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [032-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [033-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [021-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [019-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [031-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [020-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [011-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [010-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [008-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [009-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:52 [022-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [001-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [018-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [017-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [016-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [002-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [012-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [003-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [030-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [034-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [032-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [033-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [021-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [019-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [031-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [020-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [013-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [011-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [010-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [023-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [008-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [009-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:53 [022-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [001-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [018-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [017-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [016-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [002-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [012-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [003-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [035-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [030-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [034-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [032-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [033-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [021-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [019-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [003-01]: respawn checker: 71 113 119 is not respawning
+10.04.16 22:40:54 [015-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [029-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [037-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [036-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [020-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [004-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [031-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [026-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [024-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [025-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [005-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [014-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [007-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [028-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [006-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [011-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [010-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [023-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [008-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [009-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [013-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [022-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [001-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [018-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [017-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [016-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [002-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [022-01]: Unlinked effect 992, type=3
+10.04.16 22:40:54 [012-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [003-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [035-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [030-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [034-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [032-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [033-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [021-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [019-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [015-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [029-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [037-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [036-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [020-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [004-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [031-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [026-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [024-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [025-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [005-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [014-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [007-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [028-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [006-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [011-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [010-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [023-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [008-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [009-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [013-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [022-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [001-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [018-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [017-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [016-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [002-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [012-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [003-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [035-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [030-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [034-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [032-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [033-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [021-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [019-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [029-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [015-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [037-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [036-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [020-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [004-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [031-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [026-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [024-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [025-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [005-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [014-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [007-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [028-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [006-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [011-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [010-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [023-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [008-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [009-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [013-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [022-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [001-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [018-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [017-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [016-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:40:54 [002-01]: lost connection to server: MySQL server has gone away
+10.04.16 22:45:25 [003-01]: ERROR: Could not find item driver 38 in any library
+10.04.16 22:45:56 [035-01]: (update area set alive_time=1460321156,idle=0,players=0,serve) affected 0 rows
+10.04.16 22:46:55 [035-01]: (update area set alive_time=0,idle=0,players=0,server=0,port=) affected 0 rows
+10.04.16 22:46:55 [022-01]: Unlinked effect 999, type=3
+10.04.16 23:17:01 [003-01]: ERROR: Could not find item driver 38 in any library
+10.04.16 23:17:32 [035-01]: (update area set alive_time=1460323052,idle=0,players=0,serve) affected 0 rows
+10.04.16 23:18:57 [035-01]: (update area set alive_time=1460323137,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:20:22 [035-01]: (update area set alive_time=1460323222,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:21:48 [035-01]: (update area set alive_time=1460323308,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:23:13 [035-01]: (update area set alive_time=1460323393,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:24:38 [035-01]: (update area set alive_time=1460323478,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:26:04 [035-01]: (update area set alive_time=1460323564,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:27:29 [035-01]: (update area set alive_time=1460323649,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:28:54 [035-01]: (update area set alive_time=1460323734,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:30:20 [035-01]: (update area set alive_time=1460323820,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:31:45 [035-01]: (update area set alive_time=1460323905,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:33:10 [035-01]: (update area set alive_time=1460323990,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:34:36 [035-01]: (update area set alive_time=1460324076,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:36:01 [035-01]: (update area set alive_time=1460324161,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:37:26 [035-01]: (update area set alive_time=1460324246,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:38:52 [035-01]: (update area set alive_time=1460324332,idle=9996,players=0,se) affected 0 rows
+10.04.16 23:40:17 [035-01]: (update area set alive_time=1460324417,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:41:42 [035-01]: (update area set alive_time=1460324502,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:43:08 [035-01]: (update area set alive_time=1460324588,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:44:33 [035-01]: (update area set alive_time=1460324673,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:45:58 [035-01]: (update area set alive_time=1460324758,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:47:24 [035-01]: (update area set alive_time=1460324844,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:48:49 [035-01]: (update area set alive_time=1460324929,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:50:14 [035-01]: (update area set alive_time=1460325014,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:51:40 [035-01]: (update area set alive_time=1460325100,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:53:05 [035-01]: (update area set alive_time=1460325185,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:54:30 [035-01]: (update area set alive_time=1460325270,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:55:56 [035-01]: (update area set alive_time=1460325356,idle=9995,players=0,se) affected 0 rows
+10.04.16 23:57:21 [035-01]: (update area set alive_time=1460325441,idle=9994,players=0,se) affected 0 rows
+10.04.16 23:58:46 [035-01]: (update area set alive_time=1460325526,idle=9995,players=0,se) affected 0 rows
