@@ -39,9 +39,9 @@ flag=IF_USE
 driver=143
 ;
 
-tittipop:
-name="Lollipop"
-description="A sweet tittipop."
+tittypop:
+name="Tittypop"
+description="A sweet tittypop."
 value=500
 sprite=10437
 flag=IF_TAKE
