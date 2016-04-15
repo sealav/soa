@@ -1,0 +1,5 @@
+1: Increased Pent solve EXP
+2: DL door now open for 60 seconds after solve
+3: Doubled chances of lucky pents
+4: Increased drop rate in pents
+5: Increased Millitary exp for missions
