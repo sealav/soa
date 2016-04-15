@@ -1,0 +1,199 @@
+godsword:
+name="God Sword"
+description="A Sword Weilded by the Gods!"
+value=19200000
+sprite=10437
+mod_index=V_WEAPON
+mod_value=30000
+mod_index=V_ARMOR
+mod_value=30000
+mod_index=V_SPEED
+mod_value=30000
+
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+flag=IF_TAKE
+flag=IF_WNRHAND
+;
+
+ryffring:
+name="Ring of Ryff"
+description="A golden ring, once worn by Ryff."
+value=10342
+sprite=50515
+mod_index=V_BLESS
+mod_value=2500
+mod_index=V_MAGICSHIELD
+mod_value=2500
+mod_index=V_FLASH
+mod_value=2500
+mod_index=V_FREEZE
+mod_value=2500
+flag=IF_TAKE
+flag=IF_WNRRING
+flag=IF_WNLRING
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+ID=0100005E             # developer 1, ID 0x5E
+;
+
+ryffhat:
+name="God Hat"
+description="A magical hat."
+value=5
+sprite=51004
+mod_index=V_WIS
+mod_value=2500
+mod_index=V_INT
+mod_value=2500
+mod_index=V_AGI
+mod_value=2500
+mod_index=V_STR
+mod_value=2500
+flag=IF_TAKE
+flag=IF_WNHEAD
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+;
+
+ryffcape:
+name="God Cape"
+description="A magical cape."
+value=5
+sprite=50506
+mod_index=V_ARMOR
+mod_value=3000
+mod_index=V_WEAPON
+mod_value=30000
+mod_index=V_SPEED
+mod_value=10000
+flag=IF_TAKE
+flag=IF_WNCLOAK
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+;
+
+ryffbelt:
+name="God Belt"
+description="A magical belt."
+value=5
+sprite=50507
+mod_index=V_HP
+mod_value=2500
+mod_index=V_ENDURANCE
+mod_value=2500
+mod_index=V_MANA
+mod_value=2500
+mod_index=V_PULSE
+mod_value=2500
+flag=IF_TAKE
+flag=IF_WNBELT
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+;
+
+ryffammy:
+name="God Amulet"
+description="A magical golden amulet."
+value=50
+sprite=50508
+mod_index=V_BARTER
+mod_value=2500
+mod_index=V_PERCEPT
+mod_value=2500
+mod_index=V_STEALTH
+mod_value=2500
+mod_index=V_FIREBALL
+mod_value=2500
+flag=IF_TAKE
+flag=IF_WNNECK
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+;
+
+ryffboots:
+name="God Boots"
+description="A pair of Magical boots"
+value=10
+sprite=50511
+mod_index=V_BLESS
+mod_value=2500
+mod_index=V_MAGICSHIELD
+mod_value=2500
+mod_index=V_FLASH
+mod_value=2500
+mod_index=V_FREEZE
+mod_value=2500
+flag=IF_TAKE
+flag=IF_WNFEET
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+;
+
+ryffvest:
+name="God Vest"
+description="A Magical Vest"
+value=10
+sprite=53026
+mod_index=V_REGENERATE
+mod_value=2500
+mod_index=V_MEDITATE
+mod_value=2500
+mod_index=V_IMMUNITY
+mod_value=2500
+mod_index=V_DURATION
+mod_value=2500
+flag=IF_TAKE
+flag=IF_WNBODY
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+;
+
+godtrousers:
+name="A Pair of Trousers"
+description="A pair of trousers made of leather"
+value=10
+sprite=50513
+mod_index=V_RAGE
+mod_value=2500
+mod_index=V_ENDURANCE
+mod_value=2500
+mod_index=V_ENDURANCE
+mod_value=2500
+mod_index=V_WARCRY
+mod_value=2500
+mod_index=V_WARCRY
+mod_value=2500
+flag=IF_TAKE
+flag=IF_WNLEGS
+;
+
+godbracelet:
+name="God Bracelet"
+description="A magical metal spiral."
+value=15
+sprite=51084
+mod_index=V_IMMUNITY
+mod_value=2500
+mod_index=V_IMMUNITY
+mod_value=2500
+mod_index=V_IMMUNITY
+mod_value=2500
+mod_index=V_IMMUNITY
+mod_value=2500
+mod_index=V_IMMUNITY
+mod_value=2500
+flag=IF_TAKE
+flag=IF_WNARMS
+flag=IF_BEYONDMAXMOD
+flag=IF_BEYONDBOUNDS
+;
+
+godgloves:
+name="Pair of Gloves"
+description="A pair of gloves."
+value=5
+sprite=51617
+flag=IF_TAKE
+flag=IF_WNRHAND
+;

@@ -1,0 +1,10 @@
+infrecall:
+name="Recall Scroll"
+description="A scroll of recall. It can only be used by level 50 and below."
+value=2479
+sprite=50011
+flag=IF_TAKE
+flag=IF_USE
+driver=13
+arg="32"        # max. rank 50
+;
