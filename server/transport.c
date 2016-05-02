@@ -106,6 +106,8 @@ static struct trans trans[]=
 	{"Grimroot",210,246,31},			//23
 	{"Caligar",230,62,36},				//24
 	{"Arkhata",28,20,37},				//25
+	//	{"RDs",71,117,3},				//26
+	//	{"Tunnels",212,237,3},				//27
 };
 
 static struct trans clan[]={
